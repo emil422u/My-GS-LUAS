@@ -1,3 +1,5 @@
+-- thanks arrak for help with improvemint =) 
+
 --used for velocity calc function
 local vector = require("vector")
 
